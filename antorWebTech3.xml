@@ -1,0 +1,31 @@
+<empolyees>
+     <empolyee>
+       <id>1</id>
+       <name>John Doe</name>
+       <address_flatNo></address_houseNo>
+       <address_houseNo>H#38</address_houseNo>	   
+	   <address_roadNo>R#3</address_roadNo>
+       <address_area>Banani</address_area>	
+       <address_city>Dhaka</address_city>	   
+	</empolyee> 
+    <empolyee>
+       <id>2</id>
+       <name>Mark Zoerberg</name>
+       <address_flatNo>Flat#A/1</address_houseNo>
+       <address_houseNo>H#20</address_houseNo>	   
+	   <address_roadNo>R#18</address_roadNo>
+       <address_area>Mirpur</address_area>	
+       <address_city>Dhaka</address_city>	   
+	</empolyee>  
+	 <empolyee>
+       <id>3</id>
+       <name>Ala Voski</name>
+       <address_flatNo></address_houseNo>
+       <address_houseNo>H#38</address_houseNo>	   
+	   <address_roadNo>R#3</address_roadNo>
+       <address_area>Motijheel</address_area>	
+       <address_city></address_city>	   
+	</empolyee> 	
+
+
+</empolyees>
